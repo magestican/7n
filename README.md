@@ -31,3 +31,9 @@ Run the following :
 Run the following :
 
 - npm run test
+
+
+# To check the coverage #
+Run the following :
+
+- npm run coverage
